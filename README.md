@@ -2,6 +2,7 @@
 - Simple Docker flask app testing.
 
 
+URL to open
 - /
 - /health
 
