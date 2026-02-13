@@ -9,7 +9,6 @@
 # Step2: Create Container
 - docker run --name flask-docker -p 80:80 flask-app
 
-Here p:- port 
 ```
 
 # 🧠Important
@@ -20,8 +19,9 @@ Here p:- port
 # Then you must map correctly:
 -  docker run -d -p 80:5000 flask-app
 -  Because container port is 5000
+
 ```
 
-# Open URL In browser
+# After Completing All the Steps Open below URL In browser
 - http://localhost
 - http://localhost/health
